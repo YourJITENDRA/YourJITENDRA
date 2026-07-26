@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full stack developer crafting innovative solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Node.js+%26+Backend+Developer;Python+Enthusiast;React+%26+Vite+Developer;Building+Smart+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Node.js+%26+Backend+Developer;React+%26+Vite+Developer;Building+Smart+Solutions" alt="Typing SVG" />
 </p>
 
 ---
