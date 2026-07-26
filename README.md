@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jitendra Kumar Mishra! 👋</h1>
 
-<h3 align="center">A passionate developer crafting innovative solutions</h3>
+<h3 align="center">A passionate Full stack developer crafting innovative solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Node.js+%26+Backend+Developer;Python+Enthusiast;React+%26+Vite+Developer;Building+Smart+Solutions" alt="Typing SVG" />
@@ -10,10 +10,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Full-Stack Web Applications**, **Gesture-Based Visualizers**, and **Backend Systems**.
+- 🔭 I’m currently working on **Full-Stack Web Applications** and **Backend Systems**.
 - 🌱 I’m currently exploring **Advanced Node.js Architecture**, **Vite Performance Optimization**, and **System Automation**.
 - 💡 My favorite languages/frameworks are **Python, Node.js, React, JavaScript, and HTML/CSS**.
-- 🎯 I love building tools that solve real-world problems and creating engaging user experiences.
 - 📫 How to reach me: You can explore my repositories and contact me here!
 
 ---
@@ -47,11 +46,7 @@
 
 ### 🚀 Featured Projects
 
-- **[Minded_Reality](https://github.com/YourJITENDRA/Minded_Reality):** Extracting images from sources by providing image details using Python.
-- **AgriFlow:** A robust React and Vite-based web application.
-- **Gesture Controlled Visualizer:** Interactive Python application using webcam-based hand tracking to generate real-time visual patterns and animations.
-- **[Dice_Roller](https://github.com/YourJITENDRA/Dice_Roller):** A Python simulation that randomly rolls dice like a real one.
-- **Node.js Backend Solutions:** Developing scalable APIs and server-side applications using Node.js and Express.
+- **To see my projects visit : https://portfolio-jkm.onrender.com/
 
 ---
 
