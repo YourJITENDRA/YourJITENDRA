@@ -10,10 +10,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Full-Stack Web Applications** and **Backend Systems**.
-- 🌱 I’m currently exploring **Advanced Node.js Architecture**, **Vite Performance Optimization**, and **System Automation**.
-- 💡 My favorite languages/frameworks are **Python, Node.js, React, JavaScript, and HTML/CSS**.
-- 📫 How to reach me: You can explore my repositories and contact me here!
+-  I’m currently working on **Full-Stack Web Applications** and **Backend Systems**.
+-  I’m currently exploring **Advanced Node.js Architecture**, **Vite Performance Optimization**, and **System Automation**.
+-  My favorite languages/frameworks are **Python, Node.js, React, JavaScript, and HTML/CSS**.
+-  How to reach me: You can explore my repositories and contact me here!
 
 ---
 
@@ -50,14 +50,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/YourJITENDRA">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourJITENDRA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourJITENDRA&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/YourJITENDRA">
