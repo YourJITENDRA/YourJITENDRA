@@ -46,7 +46,7 @@
 
 ### 🚀 Featured Projects
 
-- **To see my projects visit : https://portfolio-jkm.onrender.com/
+- To see my projects visit : https://portfolio-jkm.onrender.com/
 
 ---
 ### 📈 GitHub Stats
