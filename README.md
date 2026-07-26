@@ -49,7 +49,13 @@
 - **To see my projects visit : https://portfolio-jkm.onrender.com/
 
 ---
+### 📈 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/YourJITENDRA">
+
+  </a>
+</p>
 
 
 <p align="center">
